@@ -1,0 +1,8 @@
+Rizal               ansible_host=192.168.1.1
+Manila              ansible_host=10.0.0.2
+QC                  ansible_host=192.168.2.1
+
+[routers]
+Rizal
+Manila
+QC

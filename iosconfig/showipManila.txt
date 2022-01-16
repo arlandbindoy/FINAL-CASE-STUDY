@@ -1,0 +1,7 @@
+Interface                  IP-Address      OK? Method Status                Protocol
+FastEthernet0/0            unassigned      YES unset  administratively down down    
+FastEthernet0/1            unassigned      YES unset  administratively down down    
+Serial1/0                  unassigned      YES unset  administratively down down    
+Serial1/1                  10.0.0.6        YES manual up                    up      
+Serial1/2                  10.0.0.2        YES manual up                    up      
+Serial1/3                  unassigned      YES unset  administratively down down
